@@ -7,11 +7,11 @@
       "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\lab1055\\Desktop\\jeff\\CA0209\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:CA0209\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
-  "WorkspaceRootPath": "C:\\Users\\Professor\\source\\repos\\CA0209\\",
+  "WorkspaceRootPath": "C:\\Users\\lab1056\\Desktop\\jeff\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED613EA-E620-44BD-91A6-565126E79C26}|CA0209\\CA0209.csproj|c:\\users\\professor\\source\\repos\\ca0209\\ca0209\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED613EA-E620-44BD-91A6-565126E79C26}|CA0209\\CA0209.csproj|solutionrelative:ca0209\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ED613EA-E620-44BD-91A6-565126E79C26}|CA0209\\CA0209.csproj|c:\\users\\lab1056\\desktop\\jeff\\ca0209\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED613EA-E620-44BD-91A6-565126E79C26}|CA0209\\CA0209.csproj|solutionrelative:ca0209\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> 0927a7b274a5c8017e65e51ef08e84ee41c920c1
     }
   ],
@@ -36,38 +36,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T20:07:58.576Z",
-=======
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\CA0209\\CA0209\\Program.cs",
-              "RelativeDocumentMoniker": "CA0209\\Program.cs",
-              "ToolTip": "C:\\Users\\Professor\\source\\repos\\CA0209\\CA0209\\Program.cs",
-              "RelativeToolTip": "CA0209\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:32:29.806Z",
->>>>>>> 0927a7b274a5c8017e65e51ef08e84ee41c920c1
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-<<<<<<< HEAD
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
 =======
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\lab1056\\Desktop\\jeff\\CA0209\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CA0209\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\lab1056\\Desktop\\jeff\\CA0209\\Pessoa.cs*",
+              "RelativeToolTip": "CA0209\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:50:08.906Z",
+              "EditorCaption": ""
 >>>>>>> 0927a7b274a5c8017e65e51ef08e84ee41c920c1
             }
           ]
