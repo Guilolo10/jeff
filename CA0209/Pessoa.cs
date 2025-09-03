@@ -8,7 +8,7 @@ namespace CA0209
 {
     internal class pessoa
     {
-        int teste;
+        int rg;
         int cpf:
     }
 }
