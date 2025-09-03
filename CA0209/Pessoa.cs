@@ -9,6 +9,6 @@ namespace CA0209
     internal class pessoa
     {
         int rg;
-        int cpf:
+        int cpf;
     }
 }
